@@ -24,6 +24,7 @@ shopware-automation/
 ├── playwright.config.js
 ├── package.json
 ├── README.md
+├── .gitignore
 ```
 
 ## How to install
