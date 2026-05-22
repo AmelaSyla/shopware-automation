@@ -28,9 +28,10 @@ shopware-automation/
 ```
 
 ## How to install
+```txt
 npm install
 npx playwright install
-
+```
 ## How to run tests
 npx playwright test
 
