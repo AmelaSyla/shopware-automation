@@ -16,12 +16,15 @@ This project contains an automated end-to-end test for a guest checkout flow usi
 - Playwright (JavaScript)
 
 ## Project Structure
+
+```txt
 shopware-automation/
 ├── tests/
 │   └── checkout.spec.js
 ├── playwright.config.js
 ├── package.json
 ├── README.md
+```
 
 ## How to install
 npm install
