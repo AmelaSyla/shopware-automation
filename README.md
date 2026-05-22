@@ -33,7 +33,9 @@ npm install
 npx playwright install
 ```
 ## How to run tests
+```txt
 npx playwright test
+```
 
 ## Target environment
 https://www.shopware6-demo.development-s25.com/
