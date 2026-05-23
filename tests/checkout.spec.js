@@ -57,7 +57,7 @@ test('should complete guest checkout with Cash on Delivery successfully', async 
   await orderBtn.click();
 
   await expect(
-    page.getByText(/Vielen Dank|Danke für Ihre Bestellung|order confirmed|success/i)
+    page.getByText(/Vielen Dank für Ihre Bestellung bei Shopware 6 Demo Shop - solution25!/i)
   ).toBeVisible({ timeout: 20000 });
 
 });
